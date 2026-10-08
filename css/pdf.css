@@ -1,9 +1,0 @@
-.pdf-hide {
-    display: none;
-}
-.pdf-only {
-    display: block !important;
-}
-span.pdf-only {
-    display: inline !important;
-}
